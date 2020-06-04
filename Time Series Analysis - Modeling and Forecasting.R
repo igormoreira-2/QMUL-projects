@@ -1,7 +1,6 @@
 #**************************************************************
 #MTH783 - Time Series Analysis for Business
-#Igor Jose Moreira Marques - 190580124
-#Assessed Coursework - Prof. Silvia Liverani
+#Igor Marques
 #**************************************************************
 
 library(fma)
