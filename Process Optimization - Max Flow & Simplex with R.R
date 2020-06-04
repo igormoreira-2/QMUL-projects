@@ -1,7 +1,6 @@
 #**************************************************************
 #MTH784 - Optimisation for Business Processes
-#Igor Jose Moreira Marques - 190580124
-#Assessed Coursework - Prof. Felix Fischer
+#Igor Marques
 #**************************************************************
 
 library(igraph)
