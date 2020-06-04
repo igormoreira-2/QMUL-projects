@@ -1,7 +1,6 @@
 #**************************************************************
 #BUS160 - Experiments for Business Analytics
-#Igor Jose Moreira Marques - 190580124
-#Assessed Coursework - Prof. Georg Von Graevenitz
+#Igor Marques
 #**************************************************************
 
 rm(list=ls())
